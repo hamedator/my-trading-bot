@@ -1,0 +1,1 @@
+def strategy(): return 'buy'
