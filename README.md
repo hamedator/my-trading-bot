@@ -23,6 +23,7 @@ Designed for real-time trading on Binance with strategy modularity and scalabili
 To install:
 ```bash
 pip install -r requirements.txt
+<<<<<<< HEAD
 
 📂 Project Structure
 
@@ -46,3 +47,4 @@ Made with 💻 by Hamed Ibrahim
 📜 License
 
 MIT License – free to use, modify, and distribute.
+=======
